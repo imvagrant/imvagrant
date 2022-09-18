@@ -1,7 +1,7 @@
 <div>
 <img align="right" src="https://count.getloli.com/get/@:imvagrant">
   
-# 软件工程-imvagrant
+# 软件工程-小宋
   </div>
 <!-- GitHub数据统计 -->
 
@@ -11,7 +11,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
-#  🙋 Hello
+# 🙋Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是小宋同学! 目前就读于安石家庄铁道大学软件工程系，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
